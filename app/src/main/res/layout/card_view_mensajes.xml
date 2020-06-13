@@ -16,7 +16,15 @@
             android:layout_height="wrap_content"
             android:padding="10sp">
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <ImageView
+=======
             <de.hdodenhof.circleimageview.CircleImageView
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+            <de.hdodenhof.circleimageview.CircleImageView
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
                 android:id="@+id/fotoPerfilMensaje"
                 android:layout_width="24sp"
                 android:layout_height="24sp"

@@ -12,7 +12,15 @@ android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <ImageView
+=======
         <de.hdodenhof.circleimageview.CircleImageView
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+        <de.hdodenhof.circleimageview.CircleImageView
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
             android:id="@+id/fotoPerfil"
             android:layout_width="48sp"
             android:layout_height="48sp"
@@ -64,6 +72,13 @@ android:orientation="vertical"
             android:layout_height="wrap_content"
             android:hint="Enviar"/>
     </LinearLayout>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
     |
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+    |
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
 
 </LinearLayout>

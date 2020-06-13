@@ -11,6 +11,13 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+import com.bumptech.glide.Glide;
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
 import com.chat.projectprg.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -34,6 +41,14 @@ public class LoginActivity extends AppCompatActivity {
         btnLogin = (Button) findViewById(R.id.idLoginLogin);
         btnRegistro = (Button) findViewById(R.id.idRegistroLogin);
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
         mAuth = FirebaseAuth.getInstance();
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -86,6 +101,13 @@ public class LoginActivity extends AppCompatActivity {
 
     }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+    //Recuperando Data para iniciar con el usuario digitado
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
+=======
+>>>>>>> 8a3d0ca465d1e1de7e15626cee112b3ba2995bcc
     @Override
     protected void onResume() {
         super.onResume();
